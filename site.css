@@ -93,6 +93,7 @@ a, a:hover, a:visited {
 
 .bottom-title {
   font-weight: 800;
+  color: #999999;
 }
 
 .padded-left {
@@ -115,6 +116,11 @@ a, a:hover, a:visited {
 .bottom-gray-bar .attribution a {
   font-size: 12px;
   text-decoration: underline;
+  color: #999999;
+}
+
+.bottom-gray-bar .attribution {
+  color: #999999;
 }
 
 @media screen and (min-width: 0px) and (max-width: 768px) {
@@ -137,6 +143,7 @@ a, a:hover, a:visited {
 
 .bottom-paragraph {
   margin-bottom: 20px;
+  color: #999999;
 }
 
 @media screen and (min-width: 0px) and (max-width: 768px) {
